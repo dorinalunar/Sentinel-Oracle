@@ -63,4 +63,3 @@ From any of the participating wallets, call `execute_consensus`:
 Navigate to the **Read State** section to see the AI's decision:
 * Call `fetch_resolution` with `mission_id`: `test-mission-01` and `cycle`: `1`.
 * The returned JSON will display the `resolution_status` (e.g., `CONVERGED`) and the `agreed_outcome` (e.g., `DOMAINS`).
-* 
